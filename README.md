@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Li Long (李龙)
 
-<!--
-**afk7532/afk7532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Code is poetry, but sometimes it’s just a grocery list.”  
+> *— probably me after 3 a.m.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+| Fun Fact | Value |
+| Current Location | 🏝️ Sanya, Hainan |
+| Spirit Animal | Red Panda |
+| Favorite Emoji | 🐉 (obviously) |
+| Coffee of Choice | Coconut Americano |
+| Coding Soundtrack | Lo-fi + tropical rain |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tags |
+| Languages | Python • Go • TypeScript |
+| Frontend | React • Next.js • TailwindCSS |
+| Backend | FastAPI • Gin • Node |
+| Infra | Docker • K8s • Terraform |
+| Data | PostgreSQL • ClickHouse • Redis |
+| DevOps | GitHub Actions • Argo CD • Grafana |
+
+
+---
+
+## 🌱 Learning Queue
+
+- [ ] Rust for WebAssembly
+- [ ] eBPF for observability
+- [ ] Mandarin (ironically)
+
